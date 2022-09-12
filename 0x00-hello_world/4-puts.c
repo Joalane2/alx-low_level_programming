@@ -1,7 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - using puts
- * return: always 0 (success)
+ *main - using puts to display results
+ *
+ *Return: Always 0 (success)
  */
 int main(void)
 {
