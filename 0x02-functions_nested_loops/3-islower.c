@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
-*int_islower - checks for lowercase alphabets
+*_islower - checks for lowercase alphabets
+*
+*@c: - parameter accepted by _islower
 *
 *Return: Always 0
 */
